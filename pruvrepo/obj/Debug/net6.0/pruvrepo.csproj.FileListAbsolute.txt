@@ -1,0 +1,15 @@
+C:\Users\root\source\repos\pruvrepo\bin\Debug\net6.0\pruvrepo.exe
+C:\Users\root\source\repos\pruvrepo\bin\Debug\net6.0\pruvrepo.deps.json
+C:\Users\root\source\repos\pruvrepo\bin\Debug\net6.0\pruvrepo.runtimeconfig.json
+C:\Users\root\source\repos\pruvrepo\bin\Debug\net6.0\pruvrepo.dll
+C:\Users\root\source\repos\pruvrepo\bin\Debug\net6.0\pruvrepo.pdb
+C:\Users\root\source\repos\pruvrepo\obj\Debug\net6.0\pruvrepo.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\pruvrepo\obj\Debug\net6.0\pruvrepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\pruvrepo\obj\Debug\net6.0\pruvrepo.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\pruvrepo\obj\Debug\net6.0\pruvrepo.AssemblyInfo.cs
+C:\Users\root\source\repos\pruvrepo\obj\Debug\net6.0\pruvrepo.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\pruvrepo\obj\Debug\net6.0\pruvrepo.dll
+C:\Users\root\source\repos\pruvrepo\obj\Debug\net6.0\refint\pruvrepo.dll
+C:\Users\root\source\repos\pruvrepo\obj\Debug\net6.0\pruvrepo.pdb
+C:\Users\root\source\repos\pruvrepo\obj\Debug\net6.0\pruvrepo.genruntimeconfig.cache
+C:\Users\root\source\repos\pruvrepo\obj\Debug\net6.0\ref\pruvrepo.dll
