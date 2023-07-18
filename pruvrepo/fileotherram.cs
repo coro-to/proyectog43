@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,5 +15,23 @@ namespace pruvrepo
         }
 
 
+
+
+        public void otherfun() 
+        {
+            Console.WriteLine("funcion variable " +
+                "");
+        }
+
+
+        public void funitionnew() 
+        {
+            Console.WriteLine( "new funcion ");
+        }
+
+
     }
 }
+
+
+
